@@ -1,7 +1,7 @@
 # WeeklyReport
  Highlight (Achievement)
 
-#성균관대 MFL board개발
+# 성균관대 MFL board개발
 추가 문의 사항
 A) 측정 시 500~1000point/sec 필요.
 a. 현재 측정 결과 22528point/min 으로 초당 375point /sec로 측정됨.
@@ -28,8 +28,9 @@ Battery 장착 문제 등 검토 필요
 c. 80mm 케이블 이동 로봇 개발  진단용 이송 장치
 현수교의 와이어에 MFL이동 장치 개발 고려중
 Battery 장착 문제 등 검토 필요
-MCDL
-11월18일 설치 완료
+
+# MCDL
+- 11월18일 설치 완료
 A) 총 40대분 MCDL x 160pcs Sensor
 a. 안산/전주 쉐플러 : 10pcs
 b. 한미 정밀 화학: 12pcs
